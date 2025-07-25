@@ -1,2 +1,2 @@
 # repositorio-git-pull
-repositorio paar practicar pull
+repositorio para practicar pull
