@@ -1,2 +1,2 @@
-# ejemplo-git-pull
+# repositorio-git-pull
 repositorio paar practicar pull
